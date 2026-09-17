@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Lorie 👋
 
-<!--
-**lorithub/lorithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 3rd Year Software Architecture Student | Continuous Learner
 
-Here are some ideas to get you started:
+- **Certification in Progress:** Amazon Junior Developer
+- **Current Focus:** Software Architecture, Clean Code, and Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Java, PHP, C, JavaScript, SQL
+- **Frameworks & Libraries:** React, Laravel, Tailwind CSS
+- **Databases & Tools:** MySQL, PostgreSQL, Docker, Git, Linux
+
+---
+
+###  Fun Facts
+
+- **Otaku :** I love anime so much that I run the anime club at my university.
+- **Aspiring Polyglot:** Fluent in French, English and Fongbe; Pretty good in Japanese, Chinese, and Spanish (Goal: 10+ languages).
+
+---
+
+### I'm building cool stuff
